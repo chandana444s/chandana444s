@@ -29,7 +29,8 @@
 
 ## 📌 Featured Projects  
 
-### 🍕 https://github.com/chandana444s/Pizza-Sales-Analysis-Dashboard 
+### 🍕 [Pizza Sales Analysis | Excel & SQL](https://github.com/chandana444s/Pizza-Sales-Analysis-Dashboard)
+
 - Analyzed sales performance to identify peak order hours and top-selling products  
 - Used pivot tables and SQL queries to extract actionable business insights  
 - Improved understanding of customer demand patterns and revenue trends  
