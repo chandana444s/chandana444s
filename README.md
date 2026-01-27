@@ -37,7 +37,7 @@
 
 ---
 
-### 👥 HR Analytics Dashboard | Excel & Power BI  
+### 👥 [HR Analytics Dashboard | Power BI & Excel](https://github.com/chandana444s/HR-Analytics-PowerBI)
 - Built interactive dashboards to analyze employee attrition and workforce trends  
 - Cleaned and structured HR datasets to ensure accurate reporting  
 - Enabled data-driven insights for HR decision-making  
