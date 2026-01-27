@@ -31,16 +31,26 @@
 
 ### 🍕 [Pizza Sales Analysis | Excel & SQL](https://github.com/chandana444s/Pizza-Sales-Analysis-Dashboard)
 
-- Analyzed sales performance to identify peak order hours and top-selling products  
-- Used pivot tables and SQL queries to extract actionable business insights  
-- Improved understanding of customer demand patterns and revenue trends  
+- Analyzed 49,574 pizzas sold across 21,350 orders, generating $8.17M revenue.
+
+- Identified peak order times (12–1 PM & evenings) and weekend demand spikes, helping optimize staffing and inventory.
+
+- Discovered Classic category & Large size pizzas as top revenue contributors.
+
+- Highlighted best and worst-selling pizzas, enabling targeted promotions and menu optimization.
+
+- Delivered a management-ready dashboard to track KPIs like revenue, average order value, and sales trends.
 
 ---
 
 ### 👥 [HR Analytics Dashboard | Power BI & Excel](https://github.com/chandana444s/HR-Analytics-PowerBI)
-- Built interactive dashboards to analyze employee attrition and workforce trends  
-- Cleaned and structured HR datasets to ensure accurate reporting  
-- Enabled data-driven insights for HR decision-making  
+- Analyzed 1,470 employee records to identify attrition patterns by department, age, gender, education, and job role.
+
+- Built an interactive Power BI dashboard tracking attrition rate (16.12%), active employees, satisfaction levels, and demographic trends.
+
+- Identified R&D and Sales as high-attrition departments and flagged 25–34 age group as the most vulnerable segment.
+
+- Enabled HR teams to make data-driven retention decisions, supporting workforce planning and policy improvements.
 
 ---
 
