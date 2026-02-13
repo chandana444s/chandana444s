@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Chandana S  
 
-### 📊 Aspiring Data Analyst | Excel • SQL • Python • Power BI  
+### 📊 Aspiring Data Analyst & AI Engineer | Excel • SQL • Python • Power BI  
 
 🔹 Passionate about transforming raw data into meaningful insights  
 🔹 Strong foundation in data analysis, reporting, and visualization  
